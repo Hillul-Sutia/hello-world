@@ -8,3 +8,7 @@ This repository is built step by step in the tutorial.
 This now contains steps for github
 
 Will add a branch from repo to remote repo on github
+
+
+Here's a thumbs up gif
+![](https://github.com/Hillul-Sutia/hello-world/blob/master/Thumbs_up.gif)
